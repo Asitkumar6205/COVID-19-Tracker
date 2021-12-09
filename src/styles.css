@@ -1,0 +1,36 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.card{
+  position: absolute;
+  right: 15%;
+  padding: 10px;
+  background-color: white;
+  box-shadow: 0px 0px 15px 5px rgba(48, 48, 48, 0.2);
+  border-radius: 10px;
+  margin-top: 30px;
+  margin-right: 20px;
+  box-sizing: initial;
+}
+
+.list {
+  list-style-type: none;
+  padding: 5px;
+}
+
+.keys{
+  font-family: Arial, Helvetica, sans-serif;
+  text-align:start;
+  font-size: 2.5vh;
+  color: #016941;
+  font-weight: 900;
+}
+
+.valueKey{
+  font-weight: 700;
+  font-size: 2.5vh;
+  color: #363636;
+  text-align:start; 
+}
